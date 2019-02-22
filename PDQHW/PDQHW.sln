@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDQHW", "PDQHW\PDQHW.csproj", "{CD80EB5A-20B9-41DB-88E1-6A95AA17C2AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD80EB5A-20B9-41DB-88E1-6A95AA17C2AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD80EB5A-20B9-41DB-88E1-6A95AA17C2AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD80EB5A-20B9-41DB-88E1-6A95AA17C2AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD80EB5A-20B9-41DB-88E1-6A95AA17C2AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {767BA9B8-5DB8-4B61-AB46-D7895B32BFFD}
+	EndGlobalSection
+EndGlobal
